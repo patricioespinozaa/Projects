@@ -1,0 +1,5 @@
+# Configuración de manejo de saltos de línea
+* text=auto
+
+# Archivos específicos donde se desea un manejo de saltos de línea específico
+Economic Data Analysis/*.py text eol=lf
