@@ -9,12 +9,12 @@ This project involved economic data analysis using Python's pandas library. This
 
 ![S&P500](graphs/S&P500.png)
 
-![Unemployment UNRATE](graphs\Unemployment_UNRATE.png)
+![Unemployment UNRATE](graphs/Unemployment_UNRATE.png)
 
-![Unemployment rate by State](graphs\Unemployment_rate_by_State.png)
+![Unemployment rate by State](graphs/Unemployment_rate_by_State.png)
 
-![Unemployment rate by State, 2024-march](graphs\Unemployment_rate_by_State,_2024_march.png)
+![Unemployment rate by State, 2024-march](graphs/Unemployment_rate_by_State,_2024_march.png)
 
-![Participation rate by State](graphs\Participation_rate_by_State.png)
+![Participation rate by State](graphs/Participation_rate_by_State.png)
 
-![Unemployment vs Participation for the last 4 years](graphs\Unemployment_vs_Participation_for_the_last_4_years.png)
+![Unemployment vs Participation for the last 4 years](graphs/Unemployment_vs_Participation_for_the_last_4_years.png)
