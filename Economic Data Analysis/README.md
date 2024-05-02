@@ -7,7 +7,7 @@ This project involved economic data analysis using Python's pandas library. This
 
 # Results
 
-![S&P500](graphs\S&P500.png)
+![S&P500](graphs/S&P500.png)
 
 ![Unemployment UNRATE](graphs\Unemployment_UNRATE.png)
 
